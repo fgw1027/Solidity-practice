@@ -1,0 +1,7 @@
+.git
+.deps
+.states
+.prettierrc.json
+
+cache
+artifacts
